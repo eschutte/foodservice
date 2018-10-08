@@ -25,7 +25,7 @@ SECRET_KEY = 'n#=$zi1wmhc-4kvxu7(f1&mff#wtitioiqz$y30ij+yg41r)s9'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost', 'eschutte.pythonanywhere.com']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
